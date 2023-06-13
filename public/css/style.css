@@ -1,0 +1,16 @@
+
+    /* Custom CSS to remove underline from <a> tags */
+a {
+    text-decoration: none !important;
+}
+
+    .form-control {
+        border: none !important;
+        box-shadow: none !important;
+    }
+
+    .image-field{
+        border: 1px solid cadetblue;
+        border-radius: 3px;
+    }
+
